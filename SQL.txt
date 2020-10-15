@@ -1,0 +1,33 @@
+1. SELECT name FROM staffs
+
+2. SELECT department_id FROM staffs
+
+3. SELECT * FROM staffs ORDER BY name
+
+4. SELECT * FROM staffs ORDER BY name | department_id
+
+5. 
+
+6. SELECT * FROM departments WHERE name="Admin"
+
+7. SELECT * FROM staffs WHERE name LIKE "a%"
+
+8. SELECT * FROM staffs WHERE name LIKE "%e"
+
+9. SELECT * FROM staffs WHERE salary BETWEEN '100000' and '500000'
+
+10. SELECT * FROM staffs WHERE date IN ('2014-02-20')
+ 
+11. 
+
+12. SELECT * FROM departments WHERE name IN ('Manager')
+
+13. SELECT * FROM staffs LIMIT 5
+
+14. 
+
+15.
+
+16.
+
+17. 

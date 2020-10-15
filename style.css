@@ -1,0 +1,22 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+body{
+	background-color: whitesmoke;
+}
+
+.nav{
+	background-color: white;
+	border: 1px solid white;
+	height: 50px;
+	padding-bottom: 40px;
+}
+.navbar{
+	float: left;
+	padding: 5px 95px;
+	font-size: 50px;
+	color: #696969;
+}
+
